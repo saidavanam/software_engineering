@@ -61,5 +61,34 @@ Alpha and Beta testing are two stages in the software testing process, each with
 4. **Techniques**: Common techniques include re-running a subset of tests that are likely to be affected by the change and using automated testing tools for efficiency.
 5. **Use Case**: It's often used after bug fixes, enhancements, or other updates to ensure that new code complies with the older code and the software's functionality remains intact.
 
+# Difference between functional and size oriented metrics
 
+
+### Functional Metrics
+1. **Focus**: Functional metrics are based on the functionality and features provided by the software. They measure aspects related to the requirements and specifications of the software.
+   
+2. **Examples**: 
+   - **Function Points**: Measures the functionality provided to the user based on the number and complexity of inputs, outputs, user interactions, files used, and the number of external interfaces.
+   - **Feature Counts**: Counts the number of distinct features or functions in a software application.
+   - **Use Case Points**: Measures the complexity of use cases within the system.
+
+3. **Application**: These metrics are often used in the early stages of the software development lifecycle, especially during requirements analysis and design, to estimate project effort, cost, and duration.
+
+4. **Benefits**: They help in understanding the user perspective of the software, aligning software development with user requirements, and providing a basis for comparing the functionality of different software systems.
+
+5. **Limitations**: They may not accurately reflect the effort or resources needed to develop the software, especially if the functionality is complex or the implementation is challenging.
+
+### Size-Oriented Metrics
+1. **Focus**: Size-oriented metrics are based on the physical size of the software's components. They measure aspects related to the volume of work or code in the software project.
+
+2. **Examples**: 
+   - **Lines of Code (LOC)**: Measures the number of lines in the software's source code.
+   - **Byte Count**: Measures the size of software in terms of bytes.
+   - **File Size**: The overall size of the software files.
+
+3. **Application**: These metrics are often used for productivity and performance analysis, project estimation, and resource allocation. They are more technical and oriented towards the development phase.
+
+4. **Benefits**: They are relatively easy to measure and provide a direct quantifiable aspect of the software. They are useful for estimating resource requirements and tracking project progress.
+
+5. **Limitations**: Size-oriented metrics may not reflect the actual complexity or quality of the code. For example, a shorter, well-written code could be more efficient than a longer, poorly written one.
 
