@@ -1,4 +1,4 @@
-**Q.** why testing is important in software engineering?
+# why testing is important in software engineering?
 
 Testing is a crucial aspect of software engineering for several reasons:
 
@@ -12,7 +12,7 @@ Testing is a crucial aspect of software engineering for several reasons:
 
 5. **Customer Satisfaction**: Delivering a well-tested and bug-free product enhances the user experience, leading to higher customer satisfaction and trust. It also reduces the chances of failures and downtime once the software is operational.
 
-**Q** what are alpha and beta testing?
+ # what are alpha and beta testing?
 
 Alpha and Beta testing are two stages in the software testing process, each with its distinct focus and objectives:
 
@@ -38,7 +38,7 @@ Alpha and Beta testing are two stages in the software testing process, each with
 
 5. **Process**: Beta testing is less structured than alpha testing and does not usually involve rigorous test cases or scenarios. The focus is on collecting qualitative feedback from users.
 
-**Q** Brief about Black Box,White Box,Regression Testing.
+# Brief about Black Box,White Box,Regression Testing.
 
 ### Black Box Testing
 1. **Definition**: Black Box Testing is a method of software testing that examines the functionality of an application without peering into its internal structures or workings.
